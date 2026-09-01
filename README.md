@@ -116,10 +116,3 @@ El proyecto final contiene:
 4. Efectos `hover` y transiciones.
 5. Diseño adaptable a diferentes tamaños de pantalla.
 
-## Estructura del proyecto
-
-```text
-tailwind_css/
-├── index.html
-└── README.md
-```
